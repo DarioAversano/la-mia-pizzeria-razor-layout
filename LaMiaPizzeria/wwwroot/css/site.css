@@ -25,6 +25,10 @@ body {
     background-color: orange;
 }
 
+.background_color_secondary {
+    background-color: secondary;
+}
+
 .img_square {
     aspect-ratio: 1 / 1;
 }
